@@ -44,16 +44,16 @@ I'm a 19 y/o aspiring developer actively looking for internship, junior-level jo
 ![React](./icons/react.svg)
 ![Redux](./icons/redux.svg)
 ![Tailwind](./icons/tailwindcss-icon.svg)
-![Tailwind](./icons/flutter_logo.svg)
-#### 🌱 I’m currently learning: Flutter 
+
+#### 🌱 I’m currently learning: Flutter 📲
 
 <br />
 
-## ✨ I’m looking to collaborate! Just reach out to me and i'll be happy to help you on your project or business idea!
+## ✨ You need to Collaborate! Just contact me and I'll be happy to help you with your project or business idea!
 
 ### Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaciejWiatr&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ansemo=react)](https://github.com/anuraghazra/github-readme-stats)
 <br /><br />
 
 <!--
