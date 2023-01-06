@@ -20,6 +20,10 @@ I'm a 19 y/o aspiring developer actively looking for internship, junior-level jo
 |   <a href="https://github.com/Ansemo/WAPED">WAPED</a>                                  |  Web application for management and sports equipment   | Django, Bootstrap, JavaScript,SQLite ,Github Actions, Heroku
 |<a href="https://github.com/Ansemo/Veterinaria-Lau-Fer---MinTic/tree/master/LauferVeterinaria">Veterinaria-Lau-Fer---MinTic</a>| Web app to control veterinary appointments |  TypeScript, loopback 4, Angular, Bootstrap, Github Actions
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/love-lock-card)
+
+&nbsp;
+
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 ### Favourite technologies 💝
