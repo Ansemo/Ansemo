@@ -43,7 +43,6 @@ I'm a 19 y/o aspiring developer actively looking for internship, junior-level jo
 ![Django](./icons/django-icon.svg)
 ![React](./icons/react.svg)
 ![Redux](./icons/redux.svg)
-![Typescript](./icons/typescript-icon.svg)
 ![Tailwind](./icons/tailwindcss-icon.svg)
 
 #### 🌱 I’m currently learning: C# 🚀
