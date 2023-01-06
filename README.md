@@ -18,7 +18,7 @@ I'm a 19 y/o aspiring developer actively looking for internship, junior-level jo
 | Project name                                                                               | Description                                                    | Technologies used                                                                                 |
 | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 |   <a href="https://github.com/Ansemo/WAPED">WAPED</a>                                  |  Web application for management and sports equipment   | Django, Bootstrap, JavaScript,SQLite ,Github Actions, Heroku
-|<a href="https://github.com/Ansemo/Veterinaria-Lau-Fer---MinTic/tree/master/LauferVeterinaria">Veterinaria-Lau-Fer---MinTic</a>| web app to control veterinary appointments |  TypeScript, loopback 4, Angular, Bootstrap, Github Actions
+|<a href="https://github.com/Ansemo/Veterinaria-Lau-Fer---MinTic/tree/master/LauferVeterinaria">Veterinaria-Lau-Fer---MinTic</a>| Web app to control veterinary appointments |  TypeScript, loopback 4, Angular, Bootstrap, Github Actions
 
 ### Favourite technologies 💝
 
