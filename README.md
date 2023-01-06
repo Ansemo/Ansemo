@@ -45,7 +45,7 @@ I'm a 19 y/o aspiring developer actively looking for internship, junior-level jo
 ![Redux](./icons/redux.svg)
 ![Tailwind](./icons/tailwindcss-icon.svg)
 
-#### 🌱 I’m currently learning: C# 🚀
+#### 🌱 I’m currently learning: Flutter ![Tailwind](./icons/flutter_logo.svg)
 
 <br />
 
