@@ -20,6 +20,8 @@ I'm a 19 y/o aspiring developer actively looking for internship, junior-level jo
 |   <a href="https://github.com/Ansemo/WAPED">WAPED</a>                                  |  Web application for management and sports equipment   | Django, Bootstrap, JavaScript,SQLite ,Github Actions, Heroku
 |<a href="https://github.com/Ansemo/Veterinaria-Lau-Fer---MinTic/tree/master/LauferVeterinaria">Veterinaria-Lau-Fer---MinTic</a>| Web app to control veterinary appointments |  TypeScript, loopback 4, Angular, Bootstrap, Github Actions
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 ### Favourite technologies 💝
 
 ![Next](./icons/nextjs-icon.svg)
@@ -37,8 +39,6 @@ I'm a 19 y/o aspiring developer actively looking for internship, junior-level jo
 ## ✨ You need to Collaborate! Just contact me and I'll be happy to help you with your project or business idea!
 
 ### Stats
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ansemo)](https://github.com/anuraghazra/github-readme-stats)
 <br /><br />
