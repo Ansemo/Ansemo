@@ -17,7 +17,7 @@ I'm a 19 y/o aspiring developer actively looking for internship, junior-level jo
 
 | Project name                                                                               | Description                                                    | Technologies used                                                                                 |
 | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-|   <a href="(https://github.com/Ansemo/WAPED)">WAPED</a>                                  |  Web application for management and sports equipment   | Django, Bootstrap, JavaScript
+|   <a href="(https://github.com/Ansemo/WAPED)">WAPED</a>                                  |  Web application for management and sports equipment   | Django, Bootstrap, JavaScript,SQLite ,Github Actions, Heroku
  
 |                                                                                            |                                     | 
 
