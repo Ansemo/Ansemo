@@ -53,7 +53,7 @@ I'm a 19 y/o aspiring developer actively looking for internship, junior-level jo
 
 ### Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ansemo=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ansemo)](https://github.com/anuraghazra/github-readme-stats)
 <br /><br />
 
 <!--
