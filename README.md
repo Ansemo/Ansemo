@@ -35,9 +35,9 @@ I'm a 19 y/o aspiring developer actively looking for internship, junior-level jo
 <br />
 
 ## ✨ You need to Collaborate! Just contact me and I'll be happy to help you with your project or business idea!
-
-### Stats
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+### Stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ansemo)](https://github.com/anuraghazra/github-readme-stats)
 <br /><br />
 
