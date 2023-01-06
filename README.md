@@ -17,8 +17,8 @@ I'm a 19 y/o aspiring developer actively looking for internship, junior-level jo
 
 | Project name                                                                               | Description                                                    | Technologies used                                                                                 |
 | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| <a href="https://github.com/MaciejWiatr/wiatr-blog">Personal Blog</a>                      | My personal blog                                               | Typescript, React, Next.js, Tailwind CSS, Github Actions, zustand, GraphQL, Prisma and many more! |
-| <a href="https://github.com/MaciejWiatr/klub-celtycki">Klub Celtycki website</a>           | Website for the elderly organization "Klub Celtycki"           | 
+|                                                                                           |                                        |  
+|                                                                                            |                                     | 
 
 ### Favourite technologies 💝
 
