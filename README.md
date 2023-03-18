@@ -28,7 +28,6 @@ I'm a 19 y/o aspiring developer actively looking for internship, junior-level jo
 ![Python](./icons/python.svg)
 ![Django](./icons/django-icon.svg)
 ![React](./icons/react.svg)
-![Redux](./icons/redux.svg)
 ![Tailwind](./icons/tailwindcss-icon.svg)
 
 #### 🌱 I’m currently learning: Flutter 📲
