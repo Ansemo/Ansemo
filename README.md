@@ -1,62 +1,62 @@
 ![Banner](https://i.imgur.com/54aHYED.png)
 
-# Product-Oriented Tech Lead | Fullstack & API Specialist
+# 🧠 Product-Oriented Tech Lead | Fullstack & API Specialist
 
-🎯 **Ingeniero de Sistemas** con enfoque en crear soluciones digitales escalables, seguras y centradas en el usuario.  
-🚀 Experto en desarrollo fullstack y diseño de APIs modernas, combino arquitecturas backend robustas con interfaces fluidas.
-
----
-
-## 🧩 Especialidades
-
-- Desarrollo de plataformas SaaS multi-tenant
-- Arquitectura de microservicios y APIs REST/GraphQL
-- Backend con **Golang**, **GORM**, **PostgreSQL**
-- Frontend con **React.js**, **Next.js**, **MUI**
-- Automatización e infraestructura con **Docker**, **Azure**, **Firebase**
-- Integración con IA (Whisper, Vosk, OpenAI)
-- Sistemas de subasta y marketplaces en tiempo real
+🎯 **Ingeniero de Sistemas** enfocado en crear soluciones digitales escalables, robustas y centradas en el usuario.  
+Con visión de producto y fuerte capacidad técnica, combino frontend moderno, backend sólido y despliegues cloud eficientes.
 
 ---
 
-## ⚙️ Stack Tecnológico
+## 🛠️ Stack principal
 
-![Golang](./icons/golang.svg)
-![Next.js](./icons/nextjs-icon.svg)
-![React](./icons/react.svg)
-![TypeScript](./icons/typescript.svg)
-![PostgreSQL](./icons/postgresql.svg)
-![Docker](./icons/docker.svg)
-![Azure](./icons/azure.svg)
-![Firebase](./icons/firebase.svg)
-![GitHub Actions](./icons/githubactions.svg)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
-## 🧠 En desarrollo continuo
+## 🧭 Áreas de experiencia
 
-Actualmente profundizo en:
+- Arquitectura y desarrollo de plataformas **SaaS multiempresa**
+- **APIs RESTful** y **GraphQL** modernas y seguras
+- Backend escalable con **Golang** y **GORM**
+- Automatización con **Docker**, CI/CD con **GitHub Actions**
+- Despliegues cloud en **Azure**, **VPS** y **Firebase**
+- Interfaces reactivas con **React**, **Next.js** y **MUI**
+- Integraciones con **IA**, reconocimiento de voz y flujos automatizados
 
-- Reconocimiento de voz en tiempo real con IA
-- Orquestación con Kubernetes
-- Arquitectura de eventos con NATS y RabbitMQ
-- Sistemas de subasta descentralizados
+---
+
+## 🧠 Investigación activa
+
+🔹 Reconocimiento de voz en tiempo real con **Whisper**  
+🔹 Arquitectura basada en eventos y microservicios  
+🔹 Interacción entre IA, APIs y procesos de negocio  
+🔹 Automatización de infraestructura con **Terraform** y **Kubernetes**
 
 ---
 
 ## 🤝 ¿Colaboramos?
 
-Siempre abierto a proyectos que generen **valor real** y combinen **tecnología + propósito**. Si buscas innovación, escalabilidad y liderazgo técnico, estoy listo para aportar.
+Abierto a liderar y colaborar en proyectos de alto impacto, donde la tecnología impulse resultados concretos.  
+Si buscas construir algo grande y con propósito, hablemos.
 
 ### 📬 Conectemos
 
-<a href="mailto:javier.tuemail@gmail.com?subject=¡Hola!%20🤝"><img align="left" src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/tuusuario/"><img align="left" src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<br /><br />
+<a href="mailto:javier.tuemail@gmail.com?subject=Conectemos%20para%20crear%20impacto"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ansemo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Javier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ansemo&show_icons=true&theme=tokyonight)
+
+---
+
+> *“La tecnología es una herramienta. Lo importante es lo que logramos construir con ella.”*
